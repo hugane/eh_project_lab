@@ -1,3 +1,6 @@
 This is the third file created for this lab
 It will show the differences of branches
 Testing, Testing
+hi from Lynn.
+How are you!
+Nice day!
