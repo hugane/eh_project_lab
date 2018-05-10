@@ -1,3 +1,4 @@
 Thursday May 10 is here
 I am at Quicken Loans
 In downtown Detroit
+Adding a new line to this file, for the lab
